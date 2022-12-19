@@ -1,0 +1,2 @@
+spiderJson = {"nodes":[],
+"links":[]};
